@@ -7,7 +7,7 @@
 
 - 📝 I write blog posts on [https://deveagleistaken.github.io/blog](https://deveagleistaken.github.io/blog)
 
-- 📫 How to reach me **deveagle911@gmail.com**
+- 📫 How to reach me **deveaglee@pm.me**
 
 - ⚡ Fun fact **i love javascript, but yet to learn**
 
